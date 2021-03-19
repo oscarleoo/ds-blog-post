@@ -9,6 +9,13 @@ To be able to run this notebook, you need to install these libraries:
 - [Matplotlib](https://github.com/matplotlib/matplotlib)
 - [Scipy](https://github.com/scipy/scipy)
 
+### Files
+The repository contains the following files:
+- README.md (The description for the project)
+- Stack Overflow.ipynb (The code for the project)
+- data/survey_results_public.csv (The answers from the survey)
+- data/survey_results_schema.csv (The questions from the survey)
+
 ### Introduction
 In this project, I did the analysis for Stack Overflow Survey Data from 2017. My goal was to find out what we need to consider when hiring programmers by looking at their annual salaries.
 <br>
